@@ -125,9 +125,11 @@ Through this project, I learned how to store and manage multiple records using l
 
 ## Conclusion
 
-This project successfully demonstrates the implementation of a To-Do List System using Python. It provides practical experience in data management, program 
+This project successfully demonstrates the implementation of a To-Do List System using Python. It provides practical experience in data management, program  logic, user interaction, and problem-solving skills that are essential for backend software development and future database-driven applications. 
 
 ##Author:
 Miryala Ankitha
-logic, user interaction, and problem-solving skills that are essential for backend software development and future database-driven applications.
+
+
+
 
