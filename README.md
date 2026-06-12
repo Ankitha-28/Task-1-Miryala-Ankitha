@@ -107,11 +107,15 @@ Thank you for using To-Do List App!
 ```
 Screenshots:
 
+Output1:
+
 <img width="1875" height="976" alt="output1" src="https://github.com/user-attachments/assets/9d42a6a2-cde8-45d9-b88e-babd16f01284" />
 
+Output2:
 
 <img width="1917" height="1018" alt="output2" src="https://github.com/user-attachments/assets/2e63824e-229b-4249-9bc9-38d3e9a9a4b4" />
 
+Output3:
 
 <img width="1919" height="1024" alt="output3" src="https://github.com/user-attachments/assets/bb95c834-de35-459a-9b1e-28845ecf3325" />
 
